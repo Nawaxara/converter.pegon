@@ -1,0 +1,12 @@
+#wrapper {max-width:900px;margin:auto;text-align:center}
+.area {width:100%;font: 20px Nawasakkala normal}
+
+/*FONTS*/
+@font-face {
+font-family: 'Nawasakkala';
+  font-style: normal;
+  font-weight: 400;
+  src: url(Nawasakkala.woff)format('woff2',
+	   url(Nawasakkala.woff) format('woff2'),
+       url(Nawasakkala.otf) format('truetype'),
+}
